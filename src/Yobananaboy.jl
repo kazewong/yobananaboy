@@ -1,4 +1,4 @@
-module yobananaboy
+module Yobananaboy
 
 greet() = print("Hello World!")
 

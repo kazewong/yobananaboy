@@ -6,3 +6,7 @@
 - [] optimization
 - [] sampling
 - [] visualization
+
+## Module design
+
+- []
